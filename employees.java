@@ -62,7 +62,7 @@ class PerEmp extends Employee
     }
 
 }
-public class newfile 
+public class employees 
 {
     public static void main (String [] a)
     {
